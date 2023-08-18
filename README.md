@@ -13,7 +13,7 @@
 </div>
 
 <div style="text-align: left">
-    <img src="https://github-readme-stats.vercel.app/api?username=xiaoyucc521&show_icons=true&icon_color=805AD5&text_color=718096&bg_color=ffffff&hide_title=true" alt="xiaoyu's github stats"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=xiaoyucc521&show_icons=true&theme=default" alt="xiaoyu's github stats"/>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xiaoyucc521&show_icons=true&line_height=21text_color=718096&icon_color=805AD5&bg_color=ffffff&layout=compact"  alt="Most Used Languages"/>
 
 [//]: # (    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xiaoyucc521&layout=compact&langs_count=6&text_color=718096&icon_color=805AD5&bg_color=ffffff&theme=graywhite&hide_title=true"  alt="xiaoyu's github stats"/>)
