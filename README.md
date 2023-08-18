@@ -1,5 +1,5 @@
 <!-- profile logo 个人资料徽标 -->
-<div style="text-align: center">
+<div align="center">
     <a href="https://gitee.com/xiaoyucc521">
         <img src="https://img.shields.io/badge/Gitee-码云-red" alt="" />
     </a>
