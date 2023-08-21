@@ -12,7 +12,7 @@
     <img src="https://visitor-badge.laobi.icu/badge?page_id=xiaoyucc521.xiaoyucc521" alt="访问量统计" />
 </div>
 
-<div style="text-align: left">
+<div>
     <img src="https://github-readme-stats.vercel.app/api?username=xiaoyucc521&show_icons=true&theme=default" alt="xiaoyu's github stats"/>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xiaoyucc521&layout=compact"  alt="Most Used Languages"/>
 </div>
