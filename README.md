@@ -11,8 +11,8 @@
 </div>
 
 <div>
-    <img height="195px" src="https://github-readme-stats.vercel.app/api?username=xiaoyucc521&show_icons=true&theme=default" alt="xiaoyu's github stats"/>
-    <img height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xiaoyucc521&layout=compact"  alt="Most Used Languages"/>
+    <img height="190px" src="https://github-readme-stats.vercel.app/api?username=xiaoyucc521&show_icons=true&theme=default" alt="xiaoyu's github stats"/>
+    <img height="190px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xiaoyucc521&layout=compact"  alt="Most Used Languages"/>
 </div>
 
 <!--
