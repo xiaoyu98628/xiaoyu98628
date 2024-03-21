@@ -3,20 +3,20 @@
     <a href="https://gitee.com/xiaoyucc521">
         <img src="https://img.shields.io/badge/Gitee-码云-red" alt="" />
     </a>&emsp;
-    <a href="https://github.com/xiaoyucc521">
-  	    <img src="https://img.shields.io/github/followers/xiaoyucc521.svg?lable=GitHub&style=social" alt="" />
+    <a href="https://github.com/xiaoyu98628">
+  	    <img src="https://img.shields.io/github/followers/xiaoyu98628.svg?lable=GitHub&style=social" alt="" />
   	</a>&emsp;
     <!-- visitor statistics logo 访问量统计徽标 -->
-    <img src="https://visitor-badge.laobi.icu/badge?page_id=xiaoyucc521.xiaoyucc521" alt="访问量统计" />
+    <img src="https://visitor-badge.laobi.icu/badge?page_id=xiaoyu98628.xiaoyu98628" alt="访问量统计" />
 </div>
 
 <div>
-    <img height="137px" src="https://github-readme-stats.vercel.app/api?username=xiaoyucc521&show_icons=true&hide_title=true&theme=default&locale=cn&line_height=21" alt="xiaoyu's github stats"/>
-    <img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xiaoyucc521&hide_title=true&layout=compact&locale=cn"  alt="Most Used Languages"/>
+    <img height="137px" src="https://github-readme-stats.vercel.app/api?username=xiaoyu98628&show_icons=true&hide_title=true&theme=default&locale=cn&line_height=21" alt="xiaoyu's github stats"/>
+    <img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xiaoyu98628&hide_title=true&layout=compact&locale=cn"  alt="Most Used Languages"/>
 </div>
 
 <!--
-**xiaoyucc521/xiaoyucc521** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**xiaoyu98628/xiaoyu98628** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
