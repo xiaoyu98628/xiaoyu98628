@@ -15,6 +15,17 @@
     <img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xiaoyu98628&hide_title=true&layout=compact&locale=cn"  alt="Most Used Languages"/>
 </div>
 
+[![GitHub Snake Light](https://raw.githubusercontent.com/xiaoyu98628/xiaoyu98628/output/github-contribution-grid-snake.svg)](https://github.com/xiaoyu98628)
+
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
+<details>
+<summary>😎 View my contributions in 3D</summary>
+
+![](./profile-3d-contrib/profile-green.svg)
+
+</details>
 <!--
 **xiaoyu98628/xiaoyu98628** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
